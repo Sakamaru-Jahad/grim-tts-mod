@@ -141,3 +141,5 @@ This project is open to collaboration and future development.
 ## 📜 License
 MIT
 ```
+
+---
